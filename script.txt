@@ -1,0 +1,36 @@
+Geocoding workshop Script:
+
+DIscuss Geocoding history and basics
+
+Create custom Gazetteer and Geocode Expensive cities
+Examine and Recreate Geocode with ArcGIS and New Haven Geocoder
+
+Install OpenRefine
+
+geolocate
+
+geonames.org
+Sign up
+Show the API DOcs
+Search with searchbox
+cut&paste api url 
+See results & add parameters
+OpenRefine
+Concatenation
+building the URL in OpenRefine
+CUt&Paste the result to JSONViewer
+Build the JSON parse code
+Parse JSON for Lat Longs in OpenRefine
+Export to CSV
+Display XY Data
+SPatial Join to County Boundaries
+Symbolize
+
+
+
+
+
+
+google maps
+google elevation
+google directions
