@@ -10,7 +10,7 @@ OpenRefine is a piece of open-source software that allows you to manipulate data
 
 For the needs of this tutorial, OpenRefine allows us to build and submit URLs to a web service (like a geocoding API) over and over tens, hundreds, even thousands or more times, saving us the trouble of typing a URL into a browser and copy&pasting values, one at a time. OpenRefine runs in your browser, but does so locally by installing itself as a sort of server running on your own machine.  OpenRefine used to be called GoogleRefine, but has recently been re-branded, so much of the support materials you will find on-line will still refer to GoogleRefine.  
 
-![Open Refine Logo] (http://opensas.files.wordpress.com/2013/06/logo-openrefine-40.png)
+![Open Refine Logo](http://opensas.files.wordpress.com/2013/06/logo-openrefine-40.png)
 
 You will, of course, need to download OpenRefine in order to complete this tutorial. You can get the appropriate version for your operating system from [OpenRefine.org] (http://openrefine.org/). In the meantime, there are 3 videos on the OpenRefine frontpage. You should take a look at all three, because they give a great, concise overview of many of the capabilities of OpenRefine. For the purposes of this tutorial, it wouldn't hurt to watch the 3rd video, linked here:
 
