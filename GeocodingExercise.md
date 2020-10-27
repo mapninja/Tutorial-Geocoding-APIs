@@ -4,7 +4,7 @@
 ### How to use Web APIs and OpenRefine for geocoding and augmenting data with geographic attributes. 
 
 ## Getting Ready 
-First: Download the data for this exercise, here: https://github.com/mapninja/Tutorial-Geocoding-APIs/archive/master.zip  
+First: Download the data for this exercise, here: https://drive.google.com/file/d/1CSYNAfbUZH2chaQNsCN-7WKlCCEYk93h/view?usp=sharing  
 
 This tutorial will demonstrate how to use OpenRefine to submit URLs to web-based Geocoding APIs in order to augment an existing dataset with things like latitude & longitude coordinates, elevation values, drive times, etc...
 
